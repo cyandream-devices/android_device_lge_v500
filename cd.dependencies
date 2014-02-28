@@ -1,0 +1,12 @@
+[
+ {
+   "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_kernel_lge_v500",
+   "target_path": "kernel/lge/v500"
+ },
+ { 
+   "branch": "cm-11.0", 
+   "repository": "TheMuppets/proprietary_vendor_lge", 
+   "target_path": "vendor/lge" 
+ } 
+]
